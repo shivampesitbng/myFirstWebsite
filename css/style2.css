@@ -1,0 +1,86 @@
+body {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    font-family: arial;
+    /*background-color: #2c3e50;*/
+   }
+
+div {
+    display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0 0 0 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+}
+.header{
+	background: url(../images/banner244.jpg) no-repeat 0px 0px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center;
+}
+.header-top {
+	padding: 2em 0 3em;
+}
+.logo {
+  float: left;
+  background-color: rgba(49, 194, 219, 0.66);
+  padding: 27px;
+  text-align: center;
+}
+.logo a {
+   font-family: 'Raleway', sans-serif;
+  color: #fff;
+  text-decoration:none;
+}
+.logo a  h2 {
+  font-size: 4.8em;
+  color: #fff;
+}
+.logo a h6 {
+  font-size: 0.9em;
+  letter-spacing: 8px;
+  color: #fff;
+}
+.logo a:hover{
+  text-decoration:none;
+}
+.container {
+	padding:1em 0;
+    text-align: center;
+  padding:0 10px;
+}
+
+
+.pull-left {
+    float: left !important;
+}
+
+.pull-right {
+    float: right !important;
+}
+
+.container {
+    width: 90%;
+    height: 100%;
+    padding: 10 10 10 10;
+    margin: 0 auto;
+    position: relative;
+    }
